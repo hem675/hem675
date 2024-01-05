@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hem675&label=Profile%20views&color=0e75b6&style=flat" alt="hem675" /> </p>
 
-- 💬 Ask me about **Cybersecurity Ethical Hacking**
+- 💬 Ask me about **Cybersecurity,Ethical Hacking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
