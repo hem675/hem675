@@ -1,6 +1,5 @@
-[![MasterHead](https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=1167&name=cybersecurity%20framework.gif)]
 <h1 align="center">Hi 👋, I'm Hemchudaesh M</h1>
-<h3 align="center">Security Researcher | Cybersecurity | Ethical Hacking</h3>
+<h3 align="center">Security Researcher | Cybersecurity | Ethical Hacking</h3> 
 <img align="right" alt="cybersecurity" width="400" src="https://seela.io/wp-content/uploads/2023/06/Julia_de_Seela_an_illustration_for_a_course_about_reverse_engin_293a3ec5-071d-4ea5-a1ca-a80c9dfb8f4c-1024x574.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hem675&label=Profile%20views&color=0e75b6&style=flat" alt="hem675" /> </p>
@@ -16,4 +15,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hem675&show_icons=true&locale=en" alt="hem675" /></p>
+
